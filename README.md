@@ -1,5 +1,5 @@
 # InsightPRSConstruction
-This code provides functions used in the analysis for the paper "Polygenic risk score based on children’s growth curves is a strong predictor of rapid infant weight gain linked to obesity later in life".
+This code provides functions used in the analysis for the paper "Polygenic risk score based on weight gain trajectories is a strong predictor of childhood obesity".
 
 This work is maintained by Ana Maria Kenney at Penn State, questions about the code should be sent to her (akenney375@gmail.com).  
 
